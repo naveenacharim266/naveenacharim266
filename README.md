@@ -166,7 +166,7 @@
       <h2>Education</h2>
       <p>
         <strong>MCA</strong> - JAIN DEEMED TO BE UNIVERSITY, Bangalore, 2024,
-        GPA: 8.69
+        GPA: 9.0
       </p>
       <p>
         <strong>BCA</strong> - SMSG JAIN COLLEGE, Indiranagar, Bangalore, 2021,
