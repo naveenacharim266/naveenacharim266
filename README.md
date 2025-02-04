@@ -52,8 +52,7 @@
         <a href="mailto:naveenacharim@gmail.com">naveenacharim@gmail.com</a> |
         8296390266 |
         <a href="https://www.linkedin.com/in/naveenachari-m-08a993214"
-          >LinkedIn</a
-        >
+          >LinkedIn</a>
       </p>
 
       <h2>Summary</h2>
