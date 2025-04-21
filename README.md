@@ -3,7 +3,7 @@
 📍 Bengaluru, Karnataka, India  
 📧 naveenachari.m@gmail.com  
 📞 +91 8296390266  
-🔗 [Portfolio](https://naveenacharim.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/naveenachari-m-08a993214) | [Prepmyskills](https://prepmyskills.com/)
+🔗 [Portfolio](https://naveenacharim.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/naveenachari-m-08a993214)
 
 ---
 
