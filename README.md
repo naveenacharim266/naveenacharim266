@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Full Stack Developer | 2.8+ years experience
+## 💼 Full Stack Developer | 3 years experience
 
 I'm a passionate full-stack developer with strong experience in building cross-platform web and mobile applications using **React.js**, **Redux Toolkit**, **TypeScript**, **Angular**, **Python**, and **Django**. I focus on performance optimization, scalable architecture, and clean code.
 
